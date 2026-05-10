@@ -45,7 +45,7 @@ This change makes FluxBars more efficient and easier to extend in the future.
 ## Requirements
 
 - Windows 10 / 11
-- .NET Desktop Runtime (if not published as self-contained EXE)
+- .NET Desktop Runtime (optional)
 
 ---
 
