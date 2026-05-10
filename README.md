@@ -54,7 +54,3 @@ This change makes FluxBars more efficient and easier to extend in the future.
 FluxBars v2 is still evolving. Expect improvements in performance, UI polish, and customization options over time.
 
 ---
-
-## License
-
-Free to use for personal projects. Modify it as you like.
