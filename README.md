@@ -42,6 +42,13 @@ This change makes FluxBars more efficient and easier to extend in the future.
 
 ---
 
+## Download
+
+- Extract the zip file
+- Open the bin file
+- Open the Release File and keep going
+- You should get the .exe file along with the other .dll files
+
 ## Requirements
 
 - Windows 10 / 11
